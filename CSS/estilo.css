@@ -1,0 +1,134 @@
+body{
+    top: 0px;
+    left: 0px;
+    height: 800px;
+    margin: none;
+    background: transparent linear-gradient(0deg, var(--unnamed-color-ffffff) 0%, #EBDD24 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(0deg, #FFFFFF 0%, #EBDD24 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+header {
+    display: flex;
+    
+    
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 90px;
+    display: flex;
+    margin-top: 40px;
+    padding-right: 50px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-30)/var(--unnamed-line-spacing-35) var(--unnamed-font-family-maven-pro);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    font: normal normal normal 15px/35px Maven Pro;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+   
+}
+
+li {
+    margin-right: 100px;
+   
+   
+}
+
+#logomenu{
+    height: 20px;
+   margin-top: 40px;
+   margin-left: 60px;
+   margin-right: 200px;
+   background-color: #727272;
+   padding: 10px;
+  border-radius: 15px;
+}
+
+form {
+   
+    margin-top: 40px;
+    margin-left: 90px;
+   
+    
+  
+}
+
+button {
+
+    cursor: pointer;
+    border: none;
+    background: none;
+    width: 30px;
+
+  
+
+}
+
+input {
+  
+    padding: 10px 20px;
+    border: none;
+    border-radius: 35px;
+    cursor: pointer;
+   
+   
+} 
+
+#lupa{
+    width: 25px;
+}
+  
+a:link {
+    color: black;
+    text-decoration: none;
+  
+}
+
+a:hover{
+    text-shadow: 1px 5px 5px white;
+}
+
+a:active{
+    color:#FFFFFF;
+}
+
+h1{
+    margin-left: 90px;
+    margin-bottom: 27px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-900) var(--unnamed-font-size-100)/var(--unnamed-line-spacing-118) var(--unnamed-font-family-maven-pro);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    font: normal normal 900 80px/80px Maven Pro;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    display: inline-flex;
+}
+
+#logoh1{
+    width: 430px;
+    margin-left: 90px;
+  
+
+}
+
+#google{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+#tablet{
+    display: inline;
+    width:600px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+#izquierda{
+    float:left;
+    display: inline;
+}
